@@ -27,7 +27,7 @@ def using_insert(array,element)
   element.insert()
 end
 def using_flatten(array)
-  array.fatten
+  array.flatten
 end
 
 
